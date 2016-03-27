@@ -14,3 +14,5 @@ Which brings me to the second point: you will need *a lot* of heap space to run 
 If you want to do more with word2vec files in Java, you should check out DeepLearning4J and / or the Medallia Word2Vec Java library. This toolbox simply reads the BIN file and allows you to match words and run analogies to your heart's content; it doesn't create the BIN files themselves.
 
 So enjoy, and happy word2veccing. -- Mark Hull
+
+P.S. I included a page of results for you to check out if you want, see results.html above.
